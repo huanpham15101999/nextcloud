@@ -51,7 +51,7 @@ spec:
             - name: NEXTCLOUD_ADMIN_USER
               value: "admin"
             - name: NEXTCLOUD_TRUSTED_DOMAINS 
-              value: mydomain.com 
+              value: huanpd.click 
           volumeMounts:
             - mountPath: /var/www/html
               name: nextcloud-storage
